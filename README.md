@@ -1,16 +1,23 @@
-## Hi there 👋
+# 0x00 | Log: Dag.Offset
 
-<!--
-**DagOffset/DagOffset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "The world is built on code. I’m simply here to ensure it’s well-written, or at least, interestingly flawed."
 
-Here are some ideas to get you started:
+Welcome to the archives. You are looking at the base address of my technical journey. Here, I orchestrate architectures, dissect protocols, and occasionally, make hardware obey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Current Operations (Status: Active)
+
+* **Full Stack Orchestration:** Building scalable web environments where logic meets aesthetics.
+* **Security Research:** Exploring the distance between a functional system and a critical vulnerability.
+* **Embedded Defiance:** Occasional forays into C and assembly to remind machinery who is in charge.
+
+### 🛠️ The Toolkit
+
+```c
+struct Developer {
+    char* name = "Dag";
+    char* focus = "Full Stack & CyberSec";
+    bool hardware_interact = true;
+    int curiosity = INTERRUPT_DRIVEN;
+};
