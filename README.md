@@ -10,7 +10,6 @@ Welcome to the archives. You are looking at the base address of my technical jou
 
 * **Full Stack Orchestration:** Building scalable web environments where logic meets aesthetics.
 * **Security Research:** Exploring the distance between a functional system and a critical vulnerability.
-* **Embedded Defiance:** Occasional forays into C and assembly to remind machinery who is in charge.
 
 ### 🛠️ The Toolkit
 
@@ -26,12 +25,6 @@ Welcome to the archives. You are looking at the base address of my technical jou
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-#### ⚙️ Industrial & Embedded
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
 
